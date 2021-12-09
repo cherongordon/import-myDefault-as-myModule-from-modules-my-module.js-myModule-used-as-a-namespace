@@ -1,0 +1,26 @@
+{
+  "name": "blocktrail-sdk-nodejs",
+  "homepage": "https://github.com/blocktrail/blocktrail-sdk-nodejs",
+  "authors": [
+    "Ruben de Vries <ruben@rubensayshi.com>"
+  ],
+  "description": "BlockTrail's Developer Friendly API binding for NodeJS",
+  "main": "main.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "048818022a",
+  "_resolution": {
+    "type": "branch",
+    "branch": "btg-build",
+    "commit": "048818022a01610a251b17772cb1573609935e6e"
+  },
+  "_source": "git://github.com/blocktrail/blocktrail-sdk-nodejs.git",
+  "_target": "btg-build",
+  "_originalSource": "git://github.com/blocktrail/blocktrail-sdk-nodejs"
+}
